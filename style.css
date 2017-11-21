@@ -1,0 +1,23 @@
+body{
+    background-color: #C0EFF7;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h4{
+    font-size: 25px;
+}
+select{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color:  #C0EFF7;
+}
+textarea{
+    width: 100px;
+    height: 50px;
+}
+.dannie{
+    font-size: 30px;
+    margin-left: 1100px;
+}
